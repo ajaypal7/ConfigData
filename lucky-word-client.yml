@@ -1,4 +1,4 @@
-----
-wordconfig:
-  luckyWord:ajay
-  preamble:pal
+---
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
